@@ -11,6 +11,7 @@ int main()
     float x=22.354;
     double y=435.6789;
     printf("c='%c',ASCII=%d\ni=%-8dj=%d\nx=%-8.2fy=%.2lf",c,c,i,j,x,y);*/
+    //above is the first question
     double a,b,c;
     double ang,area;
     scanf("%lf %lf %lf",&a,&b,&ang);
@@ -18,5 +19,6 @@ int main()
     c=sqrt(a*a+b*b-2*a*b*cos(ang));
     area=1.0/2*a*b*sin(ang);
     printf("c=%.2lf area=%.2lf",c,area);
-    return 0;
+    //this is the second question
+    return 0;//do NOT delete this line
 }
