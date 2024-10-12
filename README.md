@@ -10,4 +10,4 @@ If you have any question, you can upload your confuse in the issues column.<br>
 ***
 
 <p align="right">Edit by Gyc(gywxm/gyc0)</p><br>
-<p align="right">At 23:53(UTF+8) 10/12th/2024</p>
+<p align="right">At 23:53(UTC+8) 10/12th/2024</p>
