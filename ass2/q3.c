@@ -16,5 +16,21 @@ int main(){
         else printf("Error: division by zero");
     }
     else printf("Illegal operation");
+    //another possible vision
+    /*
+    switch(n){
+        case '+' :
+            printf("%g+%g=%g",a,b,a+b);break;
+        case '-' :
+            printf("%g-%g=%g",a,b,a-b);break;
+        case '*' :
+            printf("%g*%g=%g",a,b,a*b);break;
+        case '/' :
+            if(fabs(b)>1e-6)printf("%g/%g=%g",a,b,a/b);
+            else printf("Error: division by zero");
+            break;
+        default : printf("Illegal operation");break;
+    }
+     */
     return 0;
 }
