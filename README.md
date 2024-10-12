@@ -5,7 +5,7 @@
 Not every code is complete.<br>
 <br>
 If you have any question, you can upload your confuse in the issues column.<br>
-![](/img/122097879_p0.jpg#pic_center=x600)
+<p align="center"><img src="/img/122097879_p0.jpg" width="60%"></p>
 
 ***
 
