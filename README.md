@@ -2,7 +2,7 @@
 ## This is the first term homework or the exam of the C language  
 [ChaoxingXuexitong](http://xuexi365.net/ "学习是一种信仰")<br>
 ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑  <br> 
-<font size=5>Click here get to the submission website </font>  
+<h6>Click here get to the submission website  
 
 Not every code is complete.<br>
 <br>
